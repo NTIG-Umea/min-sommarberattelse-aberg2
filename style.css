@@ -3,6 +3,9 @@
 .highlight {
     font-size: 2rem;
 }
+body {
+    background-color: rgba(255, 255, 255, 0.794);
+}
 p {
     margin: 0 0 0 0;
     padding: 0 0 0 0;
@@ -14,6 +17,7 @@ p {
     width: 50%;
 }
 .bild {
+    float: right;
     width: 35%;
     border-radius: 5%;
     box-shadow: 0px 0px 15px -5px;
